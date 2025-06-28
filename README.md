@@ -24,8 +24,8 @@ A complete Multi-step form using React with input validation
 
 ### Links
 
-- Solution URL: [Github Solution Repo](https://your-solution-url.com)
-- Live Site URL: [Netlify Live URL](https://your-live-site-url.com)
+- Solution URL: [Github Solution Repo](https://github.com/Yaseeru/multi-step-form)
+- Live Site URL: [Netlify Live URL](https://multi-step-form-solution1.netlify.app)
 
 ## My process
 
